@@ -1,5 +1,7 @@
 < !DOCTYPE html >
+
 < html > 
+
 < body > 
 
 ### Hello Reader! ✨✨✨
@@ -19,4 +21,5 @@ When I'm not learning about cool new tech, you can catch me...
 ### thank you for stopping by! 
 
 < /body >
+
 < /html > 
