@@ -1,3 +1,7 @@
+< !DOCTYPE html >
+< html > 
+< body > 
+
 ### Hello Reader! ✨✨✨
 
 This is Dina's (aka me :D) Den of Development!
@@ -14,4 +18,5 @@ When I'm not learning about cool new tech, you can catch me...
 
 ### thank you for stopping by! 
 
-< body >
+< /body >
+< /html > 
