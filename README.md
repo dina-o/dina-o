@@ -1,10 +1,9 @@
-### Hello fellow Githubber! 😊
-Welcome to my little corner of the internet where I work on bettering my craft! 🔨
+### Hello Reader! ✨✨✨
 
-- I'm currently looking for Winter/Spring 2022 internships in backend engineering, data engineering or machine learning -- if you would like to discuss opportunities feel free to shoot me a message at **aorucevi@uwaterloo.ca** 💌
+This is Dina's (aka me :D) Den of Development!
 
-- Through my 3 internship terms building customer-facing products, most recently at HashiCorp as a backend/data engineering intern, I’ve been able to work both cross-collaboratively with various teams and independently to quickly ship reusable and robust software. I'm always looking for the next challenge and to improve in all things software engineering! 🌞
+I've always been a curious learner- going down article and YouTube rabbit holes at midnight about almost anything you can think of! That's why I love Systems Design Engineering. It is so multidisciplinary and I have so many opportunities to try out different focuses before I figure out my exact path in tech. During hackathons or other STEM competitions, I try to acquire new skills from trial/error and through my own teammates! CSS, HTML, UX/UI design are a couple of skills I've picked up solely through these events!
 
-- When I'm not learning about cool new tech, you can catch me obsessing over shibas, rock climbing, french rap and s'mores 🍫
+I'm currently looking for Winter 2022 internships in frontend development, data engineering or PM -- if you would like to discuss opportunities feel free to shoot me a message at **dmorucev@uwaterloo.ca** 💌💌💌
 
-<img src="https://media.giphy.com/media/ZBPzPhOF9N6tVh82yr/giphy.gif?cid=790b761183d42c7f018e0912ea67c46eca698c2537e6eaf9&rid=giphy.gif&ct=s" width="200" height="200" />
+When I'm not learning about cool new tech, you can catch me binge reading novels, at dog parks- obsessing over corgis (even though I don't own one), snapping film photos, and daydreaming about travelling 🗺️✈️
