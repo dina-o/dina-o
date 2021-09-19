@@ -11,3 +11,6 @@ When I'm not learning about cool new tech, you can catch me...
 - at dog parks, obsessing over corgis (even though I don't own one)
 - snapping film photos
 - daydreaming about travelling 🗺️✈️
+
+thank you for stopping by! 
+<body>
