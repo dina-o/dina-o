@@ -6,4 +6,8 @@ I've always been a curious learner- going down article and YouTube rabbit holes 
 
 I'm currently looking for Winter 2022 internships in frontend development, data engineering or PM -- if you would like to discuss opportunities feel free to shoot me a message at **dmorucev@uwaterloo.ca** 💌💌💌
 
-When I'm not learning about cool new tech, you can catch me binge reading novels, at dog parks- obsessing over corgis (even though I don't own one), snapping film photos, and daydreaming about travelling 🗺️✈️
+When I'm not learning about cool new tech, you can catch me... 
+- binge reading novels
+- at dog parks, obsessing over corgis (even though I don't own one)
+- snapping film photos
+- daydreaming about travelling 🗺️✈️
