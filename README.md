@@ -12,5 +12,6 @@ When I'm not learning about cool new tech, you can catch me...
 - snapping film photos
 - daydreaming about travelling 🗺️✈️
 
-thank you for stopping by! 
-### <body>
+###thank you for stopping by! 
+
+< body >
